@@ -1,0 +1,20 @@
+*{margin-left: 2px;}
+header{
+   
+    border-radius: 10px; 
+    background-color: rgb(133, 189, 190);
+display: flex; 
+justify-content: space-around;}
+
+
+nav{
+    margin-left: 50px;
+}
+.logo{
+   border-radius: 25px;
+}
+
+main{
+    border-radius: 10px;
+}
+
